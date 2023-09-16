@@ -23,25 +23,29 @@ yarn dev -o
 ## Documentation
 
 - Webdevelopment
-https://developer.mozilla.org/
-https://www.w3schools.com/w3css/w3css_web_html.asp
-https://www.w3schools.com/w3css/w3css_web_css.asp
-https://www.w3schools.com/w3css/w3css_web_javascript.asp
-https://css-tricks.com/
+  1. https://developer.mozilla.org/
+  1. https://www.w3schools.com/w3css/w3css_web_html.asp
+  1. https://www.w3schools.com/w3css/w3css_web_css.asp
+  1. https://www.w3schools.com/w3css/w3css_web_javascript.asp
+  1. https://css-tricks.com/
 
 - Vue:
-https://vuejs.org/
-https://vuejs.org/guide/introduction.html
+  1. https://vuejs.org/
+  1. https://vuejs.org/guide/introduction.html
 
 - Vuetify:
-https://vuetifyjs.com/en/
-https://vuetifyjs.com/en/components/all/
-https://github.com/vuetifyjs/vuetify/tree/master/packages/docs/src/examples
+  1. https://vuetifyjs.com/en/
+  1. https://vuetifyjs.com/en/components/all/
+  1. https://github.com/vuetifyjs/vuetify/tree/master/packages/docs/src/examples
 
 - Nuxt:
-https://nuxt.com/
-https://nuxt.com/docs/getting-started/introduction
-https://nuxt.com/docs/examples/hello-world
+  1. https://nuxt.com/
+  1. https://nuxt.com/docs/getting-started/introduction
+  1. https://nuxt.com/docs/examples/hello-world
 
 - Rest
-https://de.wikipedia.org/wiki/Representational_State_Transfer
+  1. https://de.wikipedia.org/wiki/Representational_State_Transfer
+
+- Hasura
+  1. https://hasura.io/docs/latest/index/
+  1. https://hasura.io/learn/graphql/vue/introduction/
