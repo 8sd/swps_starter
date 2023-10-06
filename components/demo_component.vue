@@ -1,13 +1,25 @@
 <script setup>
-
+const text = ref("I'm a demo-component")
 </script>
 
 <template>
-  <p>I'm a demo-component</p>
+  <div class="center-screen">
+    <v-btn prepend-icon="mdi-coffee-to-go"> 
+      <template v-slot:prepend>
+        <v-icon color="#B10034"></v-icon>
+      </template>
+      
+      {{ text }}
+    </v-btn>
+  </div>
 </template>
 
 <style scoped>
-p {
-  font-family: sans
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
 }
 </style>
