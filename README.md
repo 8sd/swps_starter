@@ -1,6 +1,8 @@
-# SWPS Example
+# SWPS Starter
 
 This is an example project that shows how Vue + Nuxt + Vuetify can be used together.
+
+You need to install [NodeJS](https://nodejs.org/en/download) first to use `npm`.
 
 ## How to Run the Code
 
@@ -9,12 +11,24 @@ This is an example project that shows how Vue + Nuxt + Vuetify can be used toget
 Make sure to install the dependencies:
 
 ```bash
+npm install
+```
+
+or
+
+```bash
 yarn install
 ```
 
 ### Development Server
 
 Start the development server on `http://localhost:3000` run:
+
+```bash
+npm run dev
+```
+
+or
 
 ```bash
 yarn dev -o
@@ -32,6 +46,7 @@ yarn dev -o
 - Vue:
   1. https://vuejs.org/
   1. https://vuejs.org/guide/introduction.html
+  1. https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/
 
 - Vuetify:
   1. https://vuetifyjs.com/en/
@@ -49,3 +64,15 @@ yarn dev -o
 - Hasura
   1. https://hasura.io/docs/latest/index/
   1. https://hasura.io/learn/graphql/vue/introduction/
+
+- To use Hasura in Nuxt you can use `Apollo` (optional):
+  1. https://apollo.nuxtjs.org/getting-started/auth-helpers
+
+- Git:
+  1. https://education.github.com/git-cheat-sheet-education.pdf 
+
+- Pages that can help with general questions:
+  1. https://stackoverflow.com/
+  1. https://google.com/
+  1. https://ddg.co/
+  1. https://chat.openai.com
