@@ -25,13 +25,13 @@ yarn install
 Start the development server on `http://localhost:3000` run:
 
 ```bash
-npm run dev
+npm run serve
 ```
 
 or
 
 ```bash
-yarn dev -o
+yarn serve -o
 ```
 
 ## Documentation
